@@ -53,19 +53,19 @@
 
 ## Tela Inicial
 
-![App ScreenShot]()
+![App ScreenShot](image/tela%20inicial.png)
 
 ## Tela de cadastro de produto
 
-![App ScreenShot]()
+![App ScreenShot](image/cadastro%20produtos.png)
 
 ## Tela de cadastro de categoria
 
-![App ScreenShot]()
+![App ScreenShot](image/cadastro%20categoria.png)
 
 ## Tela de cadastro de marca
 
-![App ScreenShot]()
+![App ScreenShot](image/cadastro%20marca.png)
 
 
 # **👨‍💻Faça o clone do projeto em sua máquina para testes**
