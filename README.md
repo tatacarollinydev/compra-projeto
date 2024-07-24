@@ -73,3 +73,5 @@
   git clone https://github.com/tatacarollinydev/compra-projeto
   cd compra-projeto
 ```
+
+# Trabalho realizado nas aulas do ensino tecnico juntamente com o professor Leonardo Santiago
