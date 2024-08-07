@@ -49,7 +49,19 @@
 - IDMARCA (int, FK): Chave estrangeira referenciando a tabela marca.
 #
 
-# Demosntração do projeto
+# Demonstração do projeto
+
+## Tela do banco
+
+![App ScreenShot](image/banco.png)
+
+## Tabela de pedidos
+
+![App ScreenShot](image/pedidos.png)
+
+## Tabela de marcas
+
+![App ScreenShot](image/mraca.png)
 
 ## Tela Inicial
 
